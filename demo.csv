@@ -1,0 +1,21 @@
+id,name,edad,department,email
+1,Juan Pérez,30,IT,juan.perez@example.com
+2,María Gómez,25,HR,maria.gomez@example.com
+3,Carlos López,40,Finance,carlos.lopez@example.com
+4,Ana Martínez,28,Marketing,ana.martinez@example.com
+5,Luis Fernández,35,Sales,luis.fernandez@example.com
+6,Sofía Ramírez,32,IT,sofia.ramirez@example.com
+7,Diego Torres,27,HR,diego.torres@example.com
+8,Elena Castro,45,Finance,elena.castro@example.com
+9,Andrés Mendoza,29,Marketing,andres.mendoza@example.com
+10,Paula Ríos,38,Sales,paula.rios@example.com
+11,Roberto Silva,33,IT,roberto.silva@example.com
+12,Verónica Ortega,26,HR,veronica.ortega@example.com
+13,Gabriel Reyes,42,Finance,gabriel.reyes@example.com
+14,Lucía Herrera,31,Marketing,lucia.herrera@example.com
+15,Martín Acosta,36,Sales,martin.acosta@example.com
+16,Daniela Soto,29,IT,daniela.soto@example.com
+17,Fernando Guzmán,41,HR,fernando.guzman@example.com
+18,Camila Navarro,34,Finance,camila.navarro@example.com
+19,Javier Espinoza,30,Marketing,javier.espinoza@example.com
+20,Valentina Paredes,37,Sales,valentina.paredes@example.com
